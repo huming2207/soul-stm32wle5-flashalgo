@@ -1,0 +1,3 @@
+[submodule "external/soul-flashalgo"]
+	path = external/soul-flashalgo
+	url = https://github.com/huming2207/soul-flashalgo
